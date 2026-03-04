@@ -2,3 +2,5 @@ Hello, this is Nardos Tsige
 I am a 2nd year software engineering student at AAU 
 I'm taking the frontend bignner nexus course 
 I'm currently learning Git and Github 
+I expect my self to know all the fundamental knowledge of frontend developement and to work-on hands on projects by the end of this course
+I also want to start applying for inter as soon as i compelete the advanced course, while learning Backend at the same time.
