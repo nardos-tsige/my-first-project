@@ -1,0 +1,4 @@
+Hello, this is Nardos Tsige 
+I am a 2nd year software engineering student at AAU 
+I'm taking the frontend bignner nexus course 
+I'm currently learning Git and Github 
